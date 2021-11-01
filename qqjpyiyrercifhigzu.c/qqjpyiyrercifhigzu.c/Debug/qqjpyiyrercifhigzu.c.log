@@ -1,0 +1,4 @@
+﻿  hxxb.cpp
+F:\github\1start\qqjpyiyrercifhigzu.c\qqjpyiyrercifhigzu.c\hxxb.cpp(4,40): warning C4305: “-=”: 从“double”到“float”截断
+F:\github\1start\qqjpyiyrercifhigzu.c\qqjpyiyrercifhigzu.c\hxxb.cpp(5,42): warning C4305: “+=”: 从“double”到“float”截断
+  qqjpyiyrercifhigzu.c.vcxproj -> F:\github\1start\qqjpyiyrercifhigzu.c\Debug\qqjpyiyrercifhigzu.c.exe
